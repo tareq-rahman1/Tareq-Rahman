@@ -1,6 +1,6 @@
 
 
-![Tareq Rahman](images/tareq2.JPG)
+![Tareq Rahman](images/tareq2.jpg)
 
 # 👋Hi this is Tareq Rahman 
 ## 🔰 MERN stack developer  
